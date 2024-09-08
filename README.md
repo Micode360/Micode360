@@ -11,6 +11,7 @@ I'm a passionate **Software Engineer** with a knack for building efficient, scal
 🔭 I’m currently working on [Project you're working on]  
 🌱 I’m currently learning [New technology you're exploring] 
 ⚡ Fun fact: []
+### Some of my favorite projects
 - [Project 1](Link) - A brief description of the project.
 - [Project 2](Link) - A brief description of the project.
 -->
@@ -21,6 +22,6 @@ I'm a passionate **Software Engineer** with a knack for building efficient, scal
 📫 How to reach me: abayemiracle@gmail.com  
 ---
 
-### Some of my favorite projects
+
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/miracle-k-6553a818b/)
