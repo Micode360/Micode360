@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Your Name]!
+## Hi there 👋, I'm [Miracle King Hesed]!
 
 I'm a passionate **Software Engineer** with a knack for building efficient, scalable, and user-friendly web applications. I have hands-on experience with a wide range of technologies, including:
 
