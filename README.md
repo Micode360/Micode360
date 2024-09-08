@@ -14,14 +14,11 @@ I'm a passionate **Software Engineer** with a knack for building efficient, scal
 ### Some of my favorite projects
 - [Project 1](Link) - A brief description of the project.
 - [Project 2](Link) - A brief description of the project.
--->
- 
 👯 I’m looking to collaborate on [Open source or specific projects]  
 🤔 I’m looking for help with [Any areas you'd like assistance]  
+-->
+ 
 💬 Ask me about web development, JavaScript, Python, and building full-stack applications!  
 📫 How to reach me: abayemiracle@gmail.com  
----
-
-
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/miracle-k-6553a818b/)
