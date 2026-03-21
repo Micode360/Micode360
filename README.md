@@ -21,4 +21,4 @@ I'm a passionate **Software Engineer** with a knack for building efficient, scal
 💬 Ask me about web development, JavaScript, Python, and building full-stack applications!  
 📫 How to reach me: abayemiracle@gmail.com  
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/miracle-k-6553a818b/), or reach me directly at **+2348108173560**
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/miracle-k-6553a818b/)
