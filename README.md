@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Miracle King Hesed!
+## Hi there 👋, I'm Miracle King!
 
 I'm a passionate **Software Engineer** with a knack for building efficient, scalable, and user-friendly web applications. I have hands-on experience with a wide range of technologies, including:
 
@@ -19,6 +19,6 @@ I'm a passionate **Software Engineer** with a knack for building efficient, scal
 -->
  
 💬 Ask me about web development, JavaScript, Python, and building full-stack applications!  
-📫 How to reach me: abayemiracle@gmail.com  
+📫 How to reach me: miracleking1133@gmail.com  
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/miracle-k-6553a818b/)
